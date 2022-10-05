@@ -1,5 +1,2 @@
 #!/bin/bash
-/tmp/
-mkdir /tmp/
-cd /tmp/
-mkdir my_first_directory
+cp -R my_first_directory /tmp/
