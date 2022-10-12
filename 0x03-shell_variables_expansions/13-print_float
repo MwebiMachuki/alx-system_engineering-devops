@@ -1,2 +1,2 @@
 #!/bib/bash
-printf '%x\n' $DECIMAL
+printf '%.2f\n' $NUM
